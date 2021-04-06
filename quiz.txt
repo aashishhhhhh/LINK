@@ -1,0 +1,18 @@
+1) Select a component which is NOT part of Android architecture.	Android Document (Android Document)	
+2) What is AAPT?	Android Asset Packaging Tool. (Android Asset Packaging Tool.)	
+3) Required folder when Android project is created.	bin/ (bin/)	
+4) Adb stands for	Android Debug Bridge. (Android Debug Bridge.)	
+5) Which is NOT state of an activity?	Stopped (Stored)	
+6) Paused is used	If the activity is at the background and still visible (If the activity is at the background and still visible)	
+7) What is ANR?	Application Not Responding (Application Not Responding)	
+8) What is NOT used in monitoring an activity.	Background lifetime (Background lifetime)	
+9) Select invalid state for a process	Backword activity (Backword activity)	
+10) What is AIDL?	Android Interface Definition Language (Android Interface Definition Language)	
+11) Is list data type supported by AIDL?	Yes (Yes)	
+12) Component which is NOT under the Android application.	Applications (Applications)	
+13) Language which is supported by Android for application development?	Java (Java)	
+14) Is there a case wherein other qualifiers in multiple resources take precedence over locale?	NO (YES)	
+15) A fragment is a part or portion of	an activity (an activity)	
+Results: 13/15 (86.67%)	 
+ 	 	 
+ 
